@@ -50,7 +50,7 @@ class HomePage extends StatelessWidget {
                     padding: EdgeInsets.all(20.0),
                     child: Center(
                         child: Text(
-                      'data',
+                      'Morning devotion',
                       style: TextStyle(fontSize: 30, color: Colors.white),
                     )),
                   ),
@@ -69,7 +69,7 @@ class HomePage extends StatelessWidget {
                     padding: EdgeInsets.all(20.0),
                     child: Center(
                         child: Text(
-                      'data',
+                      'Attending classes',
                       style: TextStyle(fontSize: 30, color: Colors.white),
                     )),
                   ),
@@ -88,7 +88,7 @@ class HomePage extends StatelessWidget {
                     padding: EdgeInsets.all(20.0),
                     child: Center(
                         child: Text(
-                      'data',
+                      'Studying',
                       style: TextStyle(fontSize: 30, color: Colors.white),
                     )),
                   ),
@@ -107,7 +107,7 @@ class HomePage extends StatelessWidget {
                     padding: EdgeInsets.all(20.0),
                     child: Center(
                         child: Text(
-                      'data',
+                      'Cooking',
                       style: TextStyle(fontSize: 30, color: Colors.white),
                     )),
                   ),
@@ -126,7 +126,7 @@ class HomePage extends StatelessWidget {
                     padding: EdgeInsets.all(20.0),
                     child: Center(
                         child: Text(
-                      'data',
+                      'sleeping',
                       style: TextStyle(fontSize: 30, color: Colors.white),
                     )),
                   ),
